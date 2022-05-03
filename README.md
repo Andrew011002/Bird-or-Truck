@@ -11,7 +11,7 @@ git clone https://github.com/Andrew011002/Bird-or-Truck.git
 ```
 
 ## Running
-Drop your image(s) that you'd like to classify into the images file directory and run the prediction.py file to see the results of your image(s)
+Drop your image(s) that you'd like to classify into the pictures file directory and run the prediction.py file to see the results of your image(s)
 
 ## Contributing
 If you find bugs or issues in the code, feel free the make a pull request or open an issue. You can also email me: andrewholmes011002@gmai.com or tweet at me @AndrewNerdimo
